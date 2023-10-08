@@ -1,1 +1,1 @@
-# remedy-front-v2
+# @R.M. said to remove this repo
